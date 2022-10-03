@@ -11,7 +11,7 @@ Download from https://github.com/my/GOPS
 Run the project directly, via `:main-opts` (`-m my.GOPS`):
 
     $ clojure -M:run-m
-    Hello, World!
+   
 
 Run the project's tests (they'll fail until you edit them):
 
